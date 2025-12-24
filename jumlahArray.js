@@ -6,4 +6,4 @@ function jumlahArray(arr){
     return total;
 }
 
-console.log(jumlahArray([1,2,3,4,5]));
+console.log(jumlahArray([1,2,3,4,5])); //15

@@ -9,7 +9,7 @@ function sameCharacters(str) {
   }
   return duplikat;
 }
-
+// { r: 2, g: 2, m: 2 } huruf yang sama
 console.log(sameCharacters("programming"));
 
 function characters(str) {
@@ -19,5 +19,5 @@ function characters(str) {
   }
   return hasil;
 }
-
+//{ p: 1, r: 2, o: 1, g: 2, a: 1, m: 2, i: 1, n: 1 } jumlah semua
 console.log(characters("programming"));

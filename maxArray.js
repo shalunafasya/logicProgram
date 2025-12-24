@@ -9,5 +9,5 @@ function maxArray(arr){
     return max;
 }
 
-console.log(maxArray([1,4,3,5,2]));
+console.log(maxArray([1,4,3,5,2])); //5
 

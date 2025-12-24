@@ -7,4 +7,4 @@ function lostfound(arr){
     return null;
 }
 
-console.log(lostfound([1,2,3,4,6,7,8]));
+console.log(lostfound([1,2,3,4,6,7,8])); //5
